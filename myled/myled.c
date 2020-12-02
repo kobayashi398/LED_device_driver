@@ -9,7 +9,7 @@
 #include <linux/io.h>
 #include <linux/delay.h>
 
-MODULE_AUTHOR("Kobayashi Kazushi");
+MODULE_AUTHOR("Kobayashi Kazushi and Ueda Ryuichi");
 MODULE_DESCRIPTION("driver for LED control");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.0.1");
