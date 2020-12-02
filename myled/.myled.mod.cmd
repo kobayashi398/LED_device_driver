@@ -1,1 +1,1 @@
-cmd_/home/ubuntu/myled/myled.mod := { echo  /home/ubuntu/myled/myled.o; echo; } > /home/ubuntu/myled/myled.mod
+cmd_/home/ubuntu/LED_device_driver/myled/myled.mod := { echo  /home/ubuntu/LED_device_driver/myled/myled.o; echo; } > /home/ubuntu/LED_device_driver/myled/myled.mod
