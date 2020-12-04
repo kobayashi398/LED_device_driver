@@ -8,4 +8,4 @@ $make
 $sudo insmod myled.ko  
 $sudo chmod 666 /dev/myled0  
 $echo NUMBER > /dev/myled0    (NUMBER is the number of blings)  
-&sudo rmmod myled (Post-processing)  
+$sudo rmmod myled (Post-processing)  
